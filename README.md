@@ -2,13 +2,13 @@
 
 > Full Stack Internship Screening Task · Built by **Samala Sathwika**
 
-A production-ready React application for reviewing, approving, and rejecting team requests — built as a screening submission for the Offbit Full Stack Developer Internship.
+A production-ready React application for reviewing, approving, and rejecting team requests — built as a screening submission 
 
 ---
 
 ## Live Demo
 
-> Clone and run locally (see below) or view the interactive prototype in the submission document.
+https://offbit-admin-panel.vercel.app/
 
 ---
 
@@ -82,18 +82,6 @@ npm start
 
 ---
 
-## What I'd add with more time
-
-- **Backend API** — `GET /api/v1/requests` and `PATCH /api/v1/requests/:id` (Node/Express or FastAPI)
-- **Authentication** — JWT-based admin guard; role-based rendering
-- **Bulk actions** — checkbox selection for bulk approve/reject
-- **Persistent audit log** — write to a backend table, query by admin/date
-- **Pagination** — for high-volume request queues
-- **Email notifications** — trigger on approval/rejection via SendGrid or Resend
-- **Optimistic UI** — update state immediately, rollback on API failure
-
----
-
 ## AI-First Development Workflow
 
 This project was built using an AI-first workflow:
@@ -109,5 +97,5 @@ AI tools accelerated development significantly while I retained full ownership o
 ## Author
 
 **Samala Sathwika**
-B.Tech CSE · SR University · CGPA 9.018
-samalasathwikaa@gmail.com · [GitHub](https://github.com/samalasathwika) · [LinkedIn](#)
+B.Tech CSE · SR University 
+samalasathwikaa@gmail.com 
